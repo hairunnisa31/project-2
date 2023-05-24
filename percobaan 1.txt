@@ -1,0 +1,3 @@
+Halo dunia, nama saya Hairunnisa
+
+Saya sekarang belajar Git dan Github.
